@@ -1,0 +1,19 @@
+#transp{
+    background-color:rgba(228, 227, 227, 0.836);
+}
+
+.usrform {
+outline: none;
+background: transparent;
+border: none;
+
+color: rgb(46, 45, 45);
+}
+
+.txt{
+    border-bottom: 2px solid rgb(107, 105, 105);
+}
+
+.vsmal{
+    font-size: 10px;color: gray;
+}
